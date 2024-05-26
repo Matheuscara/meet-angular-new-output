@@ -56,7 +56,7 @@ export class ParentComponent {
 }
 ```
 
-### Exemplo de Uso
+### OutputFromObservable
 
 A função outputFromObservable() permite declarar uma saída que emite valores baseados em um Observable do RxJS. Isso é particularmente útil para integrar fluxos de dados reativos diretamente como saídas de componentes.
 
