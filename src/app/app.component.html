@@ -1,0 +1,4 @@
+<h1>Name father component, {{ onName }}</h1>
+<app-component-parent
+  (onNameChange)="handleNameChange($event)"
+  (onNameChangeWithObservable)="handleNameChangeWithObservable($event)"></app-component-parent>
